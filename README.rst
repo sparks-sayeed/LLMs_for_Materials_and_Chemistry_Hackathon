@@ -7,6 +7,10 @@ LLMs_for_Materials_and_Chemistry_Hackathon (Retired)
 A newer and improved version of this tool is now available as KnowMat_.
 .. _KnowMat: https://github.com/hasan-sayeed/KnowMat.
 
+External hyperlinks, like Python_.
+
+.. _Python: http://www.python.org/
+
 If you are looking for an actively maintained and enhanced version of this project, please check out KnowMat.
 
 |
