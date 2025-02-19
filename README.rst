@@ -4,9 +4,7 @@ LLMs_for_Materials_and_Chemistry_Hackathon (Retired)
 
 🚨 **This project is no longer maintained and has been retired.** 🚨
 
-A newer and improved version of this tool is now available as **KnowMat** in the following repository:
-
-🔗 **[KnowMat on GitHub](https://github.com/hasan-sayeed/KnowMat)**
+A newer and improved version of this tool is now available as **`KnowMat <https://github.com/hasan-sayeed/KnowMat>`_**.
 
 If you are looking for an actively maintained and enhanced version of this project, please check out KnowMat.
 
@@ -48,9 +46,7 @@ Making Changes & Contributing (Deprecated)
 
 ⚠️ This project is no longer maintained. No new contributions will be accepted.
 
-If you are interested in an updated and actively maintained version, visit KnowMat:
-
-🔗 **[KnowMat on GitHub](https://github.com/hasan-sayeed/KnowMat)**
+If you are interested in an updated and actively maintained version, visit **`KnowMat <https://github.com/hasan-sayeed/KnowMat>`_**.
 
 .. _pre-commit: https://pre-commit.com/
 
